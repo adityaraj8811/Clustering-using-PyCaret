@@ -9,6 +9,7 @@ Algorithms that were employed for Clustering were - K Means, Hierarchical and Ag
 
 <img width="855" alt="Screenshot 2024-02-22 at 7 03 13 PM" src="https://github.com/adityaraj8811/Clustering-using-PyCaret/assets/91868945/a5b9fee5-22d8-4553-828a-4bdd35abe384">
 
+
 **Table Analysis**:
 1. In all the above Clustering Algorithms, we can conclude that using Transformation for pre-processing resulted in the best silouette score compared to all other forms of pre-processing.
 2. Transformation increases the silhouette score while Normalization adversely affected the data, resulting in lower silhouette scores during clustering.
