@@ -1,9 +1,9 @@
 # Clustering-using-PyCaret
 
 
-*Exploring the Comparative Performance of Clustering Algorithms with Diverse Pre-processing Techniques and Varied Cluster Counts across Multiple Evaluation Parameters
-From the Datasets library of PyCaret, 'Wine Quality' dataset was chosen for the comparative performance of different Clustering Algorithms with number of clusters = 3,4,5.
-Clustering Algorithms used were - K Means, Hierarchical and Agglomerative Clustering*
+*Exploring the Comparative Performance of Clustering Algorithms with Diverse Pre-processing Techniques and Varied Cluster Counts across Multiple Evaluation Parameters.
+From the Datasets library of PyCaret, 'Wine' dataset was chosen for the comparative performance of different Clustering Algorithms with number of clusters = 3,4,5.
+Algorithms that were employed for Clustering were - K Means, Hierarchical and Agglomerative Clustering*
 
 **Result Table**:
 
